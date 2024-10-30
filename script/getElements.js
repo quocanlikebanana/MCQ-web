@@ -16,9 +16,11 @@ const setting_div = document.getElementById("setting-div");
 const quaylai_btn = document.getElementById("quay-lai-button");
 const tieptheo_btn = document.getElementById("tiep-theo-button");
 
-const ktc_lns = document.getElementById("ktc-lns");
+const tccb_lns = document.getElementById("tccb-lns");
+const tckntcd_lns = document.getElementById("tckntcd-lns");
+const ttpctn_lns = document.getElementById("ttpctn-lns");
+const plttlq_lns = document.getElementById("plttlq-lns");
 const xlvphc_lns = document.getElementById("xlvphc-lns");
-const tcdkntc_lns = document.getElementById("tcdkntc-lns");
 
 const thoigian_ns = document.getElementById("thoigian-ns");
 
