@@ -44,7 +44,7 @@ function transformData(excelData) {
 	console.log(data);
 }
 
-readExcelFile("../../resources/MCQ_LanhDao.xlsx")
+readExcelFile("./resources/MCQ_LanhDao.xlsx")
 
 // async function getLanhdaoData() {
 // 	const res = await fetch("./resources/lanhdao.json");
